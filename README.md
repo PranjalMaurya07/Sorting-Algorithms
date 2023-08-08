@@ -36,3 +36,12 @@ Time Complexity:
 (a)Average case - O(nlogn)
 (a)Worst case - O(n²)
 Space Complexity-O(n)
+
+(iv)Merge sort:
+MergeSort is a sorting algorithm based on the Divide and Conquer technique.In this algorithm we divide an given array into smaller subarrays, sorting each subarray, and then merging the sorted subarrays back together to form the final sorted array.It is much useful for large data-sets.
+Time Complexity:
+(a)Best case - O(nlogn)
+(a)Average case - O(nlogn)
+(a)Worst case - O(nlogn)
+Space Complexity-O(n)
+
